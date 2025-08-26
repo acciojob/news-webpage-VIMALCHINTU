@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+#header{
+	background-color:#011e29;
+	color:white;
+	padding:10px;
+	margin:0px 5px;
+	justify-content:center;
+	display:flex;
+}
+body{
+	background-color:#f5f5f5;
+}
+.left{
+	background-color:white;
+	display:inline-block;
+	margin:10px;
+	padding:10px;
+	border-radius: 15px;
+}
+.total{
+	display:flex;
+}
+.middle{
+	background-color:white;
+	display:inline-block;
+	margin:10px;
+	padding:10px;
+	border-radius: 15px;
+	text-align:center;
+}
+.right{
+	background-color:white;
+	display:inline-block;
+	margin:10px;
+	padding:10px;
+	border-radius: 15px;
+	text-align:center;
+}
